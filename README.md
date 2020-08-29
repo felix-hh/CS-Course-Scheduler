@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Enter this app on github through this link http://felix-hh.github.io/CS-Course-Scheduler 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
